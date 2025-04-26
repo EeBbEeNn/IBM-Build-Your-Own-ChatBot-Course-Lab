@@ -1,4 +1,4 @@
-# IBM-Build-a-ChatBot-Course-Lab
+# IBM-Build-Your-Own-ChatBot-Course-Lab
 Hands on Practical on Building a ChatBot using IBM Watson X Platform and access to IBM Cloud for Hands on Labs
 
 <h2> Tools/Environments Used</h2>
