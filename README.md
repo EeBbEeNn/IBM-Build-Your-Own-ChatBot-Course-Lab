@@ -24,38 +24,40 @@ Hands on Practical on Building a ChatBot using IBM Watson X Platform and access 
 - <b>✅Earned a Digital Badge & Certificate of Completion for the Build a Chatbot course.</b>
 
 <p align="center">
-IBM Build A chatbot course: <br/>
+IBM Build A chatbot course <br/>
 <img src="https://i.imgur.com/FWvrwPz.png" height="80%" width="80%" alt="Image showing IBM Build A chatbot course"/>
 <br />
 <br />
-Dialog:  <br/>
+Dialog  <br/>
 <img src="https://i.imgur.com/sDh1TId.png" height="80%" width="80%" alt="Image showing Dialog"/>
 <br />
 <br />
-Intents: <br/>
+Intents <br/>
 <img src="https://i.imgur.com/gyMJUtE.png" height="80%" width="80%" alt="Image showing Intents"/>
 <br />
 <br />
-Entities:  <br/>
+Entities  <br/>
 <img src="https://i.imgur.com/r02ryxd.png" height="80%" width="80%" alt="Image showing Entities"/>
 <br />
-  Dialog Skill Structure:  <br/>
+  Dialog Skill Structure  <br/>
 <img src="https://i.imgur.com/RoE3fGK.png" height="80%" width="80%" alt="Image showing Dialog Skill Structure"/>
 <br />
-    System Entities:  <br/>
+    System Entities  <br/>
 <img src="https://i.imgur.com/VJgUDMI.png" height="80%" width="80%" alt="Image showing System Entities"/>
 <br />
 <br />
-Build a chatbot Final Exam:  <br/>
+Build a chatbot Final Exam  <br/>
 <img src="https://i.imgur.com/oEYla9l.png" height="80%" width="80%" alt=" Image showing Build a chatbot Final Exam"/>
 <br />
 <br />
-Congratulations on Finishing Build Your own ChatBot Course:  <br/>
+Congratulations to Me on Completing the Build Your own ChatBot Course  <br/>
 <img src="https://i.imgur.com/XvkiFNo.jpeg" height="80%" width="80%" alt="Image showing Congratulations on Finishing Build Your own ChatBot Course"/>
 <br />
 <br />
 Certificate Of Completion:  <br/>
 <img src="https://i.imgur.com/URBwjXP.jpeg" height="80%" width="80%" alt="Image showing Certificate Of Completion"/>
   <br />
-<br />
+
+<b>YOU HAVE COME TO THE END OF THIS LAB</b>
+
 </p>
